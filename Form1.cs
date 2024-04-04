@@ -27,7 +27,7 @@ namespace ElectrolitosLab1UI
             {
                 this.btnMensaje.Text = "Cargando ...";
                 resultado = 8 / resultado;
-                MessageBox.Show("Hola C Sharp");
+                MessageBox.Show("Hola Mundo");
                     
                 this.btnMensaje.Text = "OK";
             }catch(Exception ex)
